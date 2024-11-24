@@ -1,6 +1,6 @@
 # Page shop Introduction
 
-[Page, a static website generator](https://fmalina.github.io/page/),
+[Page, a static website generator](https://github.com/fmalina/page/),
 is a fast and easy-to-use tool for creating
 static websites. With the addition of a JS shopping cart code, it is now
 possible to add e-commerce features to your static website, without the need
